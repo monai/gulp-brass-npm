@@ -1,0 +1,16 @@
+{
+  "name": "gulp-brass-npm",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "dezalgo": "^1.0.1",
+    "lodash": "^2.4.1"
+  }
+}
