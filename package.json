@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "async": "^0.9.0",
-    "dezalgo": "^1.0.1",
     "lodash": "^2.4.1"
   }
 }
