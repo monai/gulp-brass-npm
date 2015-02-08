@@ -1,6 +1,6 @@
 {
   "name": "gulp-brass-npm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helpers for packaging npm packages with gulp-brass",
   "main": "index.js",
   "files": [
