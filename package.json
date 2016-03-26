@@ -24,6 +24,7 @@
   "homepage": "https://github.com/monai/gulp-brass-npm",
   "dependencies": {
     "async": "^1.5.2",
-    "lodash": "^4.6.1"
+    "lodash.isplainobject": "^4.0.3",
+    "lodash.values": "^4.1.0"
   }
 }
